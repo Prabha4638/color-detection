@@ -1,20 +1,20 @@
-# Color Detection Project
+# Color  Detection Project
 
 ## Overview
-This project detects colors in an image using Python and OpenCV.
+This project detects the color name and RGB values when user double-clicks on an image.
 
 ## Technologies Used
 - Python
 - OpenCV
-- NumPy
+- Pandas
 
 ## Features
-- HSV color detection
-- Real-time slider adjustment
-- Mask generation
-- Color filtering
+- Detect color name
+- Display RGB values
+- Interactive mouse click detection
+- Simple GUI
 
 ## Installation
 
 ```bash
-pip install opencv-python numpy
+pip install pandas numpy opencv-python
